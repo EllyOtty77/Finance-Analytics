@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"CodeGPT.apiKey": "CodeGPT Plus Beta",
+		"CodeGPT.Autocomplete.enabled": true,
+		"CodeGPT.Autocomplete.suggestionDelay": 600
+	}
+}

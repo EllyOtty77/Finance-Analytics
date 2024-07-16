@@ -1,0 +1,1002 @@
+Company,Market cap($B),Share Price,Pct_change,Trend,Country
+Apple,3594.0,234.4,1.67,up,USA
+Microsoft,3373.0,453.96,0.09,up,USA
+NVIDIA,3159.0,128.44,0.62,down,USA
+Alphabet (Google),2314.0,188.19,0.75,up,USA
+Amazon,2005.0,192.72,0.91,down,USA
+Saudi Aramco,1824.0,7.54,0.53,up,S. Arabia
+Meta Platforms (Facebook),1258.0,496.16,0.54,down,USA
+TSMC,960.56,185.22,1.14,down,Taiwan
+Berkshire Hathaway,937.02,434.42,2.35,up,USA
+Eli Lilly,855.79,950.46,0.22,up,USA
+Tesla,805.71,252.64,1.78,up,USA
+Broadcom,797.93,171.42,0.8,up,USA
+Novo Nordisk,632.3,141.39,0.49,down,Denmark
+JPMorgan Chase,597.61,210.05,2.49,up,USA
+Walmart,559.91,69.61,0.53,up,USA
+Visa,549.27,268.45,1.02,up,USA
+Exxon Mobil,516.82,115.21,1.71,up,USA
+UnitedHealth,474.33,515.37,0.75,up,USA
+Tencent,465.82,49.42,1.96,down,China
+ASML,428.63,1064.0,1.99,down,Netherlands
+Samsung,420.1,63.45,1.15,up,S. Korea
+Mastercard,412.74,444.0,0.88,up,USA
+Oracle,394.28,143.07,1.17,down,USA
+Procter & Gamble,388.43,164.58,1.22,down,USA
+LVMH,380.39,761.47,1.01,down,France
+Costco,376.27,848.73,0.69,up,USA
+Johnson & Johnson,359.17,149.24,0.43,down,USA
+Home Depot,355.45,358.46,0.36,down,USA
+Bank of America,327.59,41.89,0.72,up,USA
+Merck,324.5,128.12,0.28,up,USA
+AbbVie,296.71,168.03,0.41,down,USA
+AMD,290.66,179.83,0.98,down,USA
+Chevron,289.02,158.04,1.57,up,USA
+Netflix,282.86,656.45,1.37,up,USA
+Toyota,278.69,206.91,0.33,down,Japan
+ICBC,275.07,0.56,1.8,down,China
+Coca-Cola,273.16,63.41,0.46,down,USA
+Nestlé,271.1,103.47,0.49,down,Switzerland
+PetroChina,255.82,1.45,0.38,up,China
+Reliance Industries,255.33,37.74,1.31,down,India
+Kweichow Moutai,255.18,203.14,0.07,up,China
+Adobe,250.83,565.71,1.19,up,USA
+AstraZeneca,245.53,78.12,1.41,down,UK
+Salesforce,245.02,252.86,0.44,down,USA
+International Holding Company,244.38,111.41,0.17,down,UAE
+Hermès,238.62,2278.0,1.14,down,France
+SAP,238.55,203.51,0.78,down,Germany
+L'Oréal,233.49,436.66,1.42,down,France
+QUALCOMM,232.32,208.18,2.84,up,USA
+Roche,231.98,287.04,0.62,down,Switzerland
+Shell,228.71,72.96,0.16,down,UK
+Novartis,225.11,110.33,1.23,down,Switzerland
+Pepsico,225.07,163.86,1.51,down,USA
+Agricultural Bank of China,220.62,0.65,0.21,down,China
+China Mobile,215.06,9.84,0.26,down,China
+T-Mobile US,213.57,181.75,1.23,up,USA
+Linde,210.64,438.18,0.57,down,UK
+Thermo Fisher Scientific,207.91,544.68,0.62,down,USA
+Applied Materials,203.3,245.55,0.88,up,USA
+Accenture,199.1,317.87,2.33,up,Ireland
+Wells Fargo,196.43,57.73,2.1,up,USA
+Pinduoduo,191.63,137.99,3.11,down,China
+Cisco,190.96,47.4,0.04,up,USA
+Alibaba,186.6,78.01,2.06,down,China
+Arm Holdings,186.02,177.53,2.01,down,UK
+Intuit,183.99,658.18,2.53,up,USA
+Texas Instruments,183.69,201.76,0.05,down,USA
+Danaher,182.37,246.23,0.19,down,USA
+China Construction Bank,182.0,1.04,0.4,down,China
+McDonald,181.27,251.53,0.93,down,USA
+Tata Consultancy Services,180.96,50.02,0.22,up,India
+Bank of China,179.62,0.67,0.62,up,China
+Abbott Laboratories,179.11,102.96,0.68,down,USA
+Amgen,177.1,330.15,0.21,down,USA
+Walt Disney,176.59,96.87,0.27,down,USA
+American Express,175.5,244.0,2.25,up,USA
+General Electric,174.65,159.56,0.35,up,USA
+Verizon,171.69,40.79,1.54,down,USA
+Morgan Stanley,171.06,105.26,1.12,up,USA
+Caterpillar,169.09,345.77,3.03,up,USA
+IBM,167.99,182.88,0.03,up,USA
+Pfizer,164.89,29.1,0.62,up,USA
+Philip Morris,163.33,105.07,0.83,down,USA
+HSBC,160.77,43.25,1.21,down,UK
+TotalEnergies,159.2,69.13,0.29,down,France
+Goldman Sachs,158.72,492.23,2.57,up,USA
+ServiceNow,157.7,767.85,1.23,up,USA
+Prosus,157.5,36.05,1.71,down,Netherlands
+Inditex,157.29,25.1,2.18,down,Spain
+Royal Bank Of Canada,157.08,110.81,0.36,down,Canada
+Siemens,156.19,197.73,0.28,up,Germany
+Intuitive Surgical,155.09,437.25,1.56,down,USA
+HDFC Bank,152.87,60.28,0.26,down,India
+Comcast,152.78,38.94,1.7,up,USA
+Uber,151.05,72.29,0.19,down,USA
+S&P Global,150.98,482.55,0.88,up,USA
+Commonwealth Bank,149.81,89.37,0.19,down,Australia
+BHP Group,147.55,58.31,1.62,down,Australia
+Intel,146.69,34.46,0.09,down,USA
+Nextera Energy,145.8,70.97,6.62,down,USA
+Micron Technology,145.11,130.87,2.01,down,USA
+Union Pacific Corporation,143.98,235.99,2.51,up,USA
+Unilever,142.8,56.96,1.13,down,UK
+CNOOC,141.21,2.86,0.89,down,China
+Schneider Electric,140.93,251.34,0.58,down,France
+Honeywell,140.47,215.72,0.28,up,USA
+Lam Research,139.77,1069.0,0.07,down,USA
+Booking Holdings (Booking.com),138.69,4088.0,1.53,up,USA
+Charles Schwab,137.24,75.07,0.41,down,USA
+Raytheon Technologies,135.1,101.62,0.34,up,USA
+ConocoPhillips,133.39,114.57,1.26,up,USA
+AT&T,133.22,18.58,1.22,down,USA
+Lowe's Companies,132.29,232.17,0.82,down,USA
+Eaton,130.77,327.03,1.04,down,Ireland
+Mitsubishi UFJ Financial,129.52,11.08,0.09,up,Japan
+Deutsche Telekom,129.11,25.93,0.04,down,Germany
+Dior,128.62,712.96,1.51,down,France
+TJX Companies,128.62,113.81,0.43,down,USA
+Sanofi,128.38,50.15,2.3,down,France
+Progressive,127.14,217.1,1.78,up,USA
+Vertex Pharmaceuticals,126.66,490.85,0.43,up,USA
+Stryker Corporation,125.16,328.56,3.19,down,USA
+Citigroup,124.27,65.14,0.96,up,USA
+Elevance Health,123.33,530.66,0.91,down,USA
+United Parcel Service,123.32,144.15,1.26,up,USA
+BlackRock,121.96,822.96,0.61,down,USA
+Anheuser-Busch Inbev,121.24,60.17,2.16,down,Belgium
+Regeneron Pharmaceuticals,119.23,1082.0,1.63,down,USA
+Analog Devices,117.96,237.72,0.35,down,USA
+Sony,116.45,95.63,0.46,down,Japan
+SK Hynix,116.08,168.58,1.3,up,S. Korea
+KLA,115.53,858.12,0.05,up,USA
+CM Bank,115.06,4.42,1.43,down,China
+Boston Scientific,114.7,78.02,0.42,up,USA
+Airbus,114.41,144.66,0.23,down,Netherlands
+Keyence,113.8,469.26,0.12,up,Japan
+Arista Networks,112.94,360.42,0.41,down,USA
+Prologis,112.15,121.14,0.82,up,USA
+Allianz,112.02,286.17,1.02,down,Germany
+China Shenhua Energy,111.43,5.84,0.05,up,China
+Hitachi,110.5,23.9,2.3,up,Japan
+Palo Alto Networks,110.38,340.91,1.31,up,USA
+Lockheed Martin,110.37,463.88,0.03,up,USA
+Rio Tinto,110.36,67.55,1.42,down,UK
+Boeing,109.95,179.11,1.76,down,USA
+CATL,108.54,24.68,0.66,up,China
+Marsh & McLennan Companies,107.64,218.47,0.05,up,USA
+Nike,107.63,71.31,2.87,down,USA
+ABB,106.43,57.59,0.23,down,Switzerland
+KKR & Co.,105.98,114.96,3.81,up,USA
+SoftBank,105.73,72.13,0.26,up,Japan
+Chubb,105.65,260.2,0.72,up,Switzerland
+Tokyo Electron,104.93,227.78,1.06,up,Japan
+Bharti Airtel,104.83,17.55,2.01,up,India
+China Yangtze Power,103.72,4.24,1.22,up,China
+ICICI Bank,103.62,29.17,0.03,down,India
+Deere & Company,102.42,371.67,1.74,up,USA
+Air Liquide,102.3,177.52,0.2,down,France
+Sinopec,102.28,0.89,2.2,up,China
+Toronto Dominion Bank,100.9,57.25,0.88,up,Canada
+CSL,100.39,207.74,0.23,down,Australia
+China Life Insurance,99.8,4.29,0.86,down,China
+UBS,99.75,31.07,0.54,down,Switzerland
+Automatic Data Processing,99.31,242.64,1.94,up,USA
+Medtronic,98.83,77.08,1.12,down,Ireland
+BYD,98.47,35.64,1.04,down,China
+EssilorLuxottica,98.36,215.9,0.78,down,France
+Petrobras,98.0,15.2,0.73,up,Brazil
+American Tower,97.52,208.84,0.84,down,USA
+Dell,97.05,137.22,1.68,down,USA
+BP,96.98,35.03,0.45,down,UK
+Blackstone Group,95.57,132.37,2.36,up,USA
+Synopsys,94.38,616.01,0.32,up,USA
+Ping An Insurance,94.25,5.67,3.15,down,China
+Cigna,94.14,331.42,1.01,down,USA
+State Bank of India,94.08,10.54,0.07,down,India
+Airbnb,93.46,147.22,0.3,up,USA
+Meituan,92.17,15.06,1.34,down,China
+Safran,92.09,219.34,0.0,up,France
+CrowdStrike,91.83,377.37,1.63,up,USA
+Fiserv,90.91,155.39,1.43,up,USA
+Foxconn (Hon Hai Precision Industry),90.64,6.54,1.62,down,Taiwan
+Recruit,90.52,58.98,1.65,down,Japan
+Compagnie Financière Richemont,90.28,154.24,0.8,up,Switzerland
+Sumitomo Mitsui Financial Group,89.17,13.61,0.51,down,Japan
+Al Rajhi Bank,88.59,22.15,0.24,up,S. Arabia
+MercadoLibre,88.41,1744.0,0.98,down,Argentina
+Gilead Sciences,88.21,70.81,1.21,up,USA
+Atlas Copco,87.95,16.3,0.49,down,Sweden
+Southern Copper,87.94,112.58,2.27,down,USA
+Southern Company,87.52,80.05,0.08,up,USA
+Waste Management,86.63,216.0,1.05,up,USA
+Mondelez,86.31,64.35,1.55,down,USA
+RELX,86.02,45.99,0.86,down,UK
+TAQA,86.01,0.77,0.35,down,UAE
+Cadence Design Systems,85.98,315.63,0.01,down,USA
+Mitsubishi Corporation,85.95,21.28,1.05,up,Japan
+Investor AB,85.64,28.0,0.32,up,Sweden
+Intercontinental Exchange,84.78,147.82,0.39,down,USA
+Infosys,84.63,20.31,0.44,down,India
+Shin-Etsu Chemical,84.37,42.34,1.3,up,Japan
+Life Insurance Corporation of India (LIC),83.92,13.27,4.54,up,India
+Amphenol,83.73,69.71,0.21,down,USA
+NTT (Nippon Telegraph & Telephone),83.44,0.99,0.95,down,Japan
+HCA Healthcare,83.02,316.98,2.26,down,USA
+Shopify,82.72,64.21,1.05,down,Canada
+Starbucks,82.4,72.75,2.78,down,USA
+Fast Retailing,82.23,268.12,1.26,down,Japan
+Altria Group,81.96,47.72,0.02,down,USA
+Moody's,81.57,446.7,0.16,up,USA
+Bristol-Myers Squibb,81.38,40.15,0.77,down,USA
+Duke Energy,81.28,105.32,0.07,down,USA
+Zoetis,81.21,177.98,0.59,down,USA
+Sherwin-Williams,80.74,318.47,0.03,up,USA
+Iberdrola,80.27,12.87,0.21,down,Spain
+GlaxoSmithKline,79.93,38.67,1.25,down,UK
+Colgate-Palmolive,79.78,97.25,0.84,down,USA
+DBS Group,79.07,27.8,1.42,down,Singapore
+Canadian Natural Resources,78.5,36.69,3.26,up,Canada
+General Dynamics,78.3,285.42,0.54,up,USA
+AXA,78.17,34.71,1.06,down,France
+Canadian Pacific Railway,78.05,83.54,0.24,up,Canada
+National Australia Bank,78.04,25.22,0.35,up,Australia
+Ferrari,77.85,428.56,1.52,down,Italy
+Chipotle Mexican Grill,77.68,56.61,1.84,down,USA
+Canadian National Railway,77.46,121.58,1.13,up,Canada
+Tokio Marine,77.43,39.49,1.21,up,Japan
+Trane Technologies,77.18,341.0,0.82,down,Ireland
+China Telecom,76.88,0.64,1.02,up,China
+BNP Paribas,76.77,67.89,0.73,down,France
+Equinix,76.36,804.66,0.02,down,USA
+AIA,76.28,6.87,3.25,down,Hong Kong
+Enbridge,76.25,35.79,0.86,down,Canada
+EOG Resources,76.23,132.65,2.87,up,USA
+Zurich Insurance Group,76.1,528.54,1.48,down,Switzerland
+Glencore,75.9,6.15,0.0,up,Switzerland
+Bank Central Asia,75.83,0.62,1.0,down,Indonesia
+ACWA POWER Company,75.64,103.27,3.53,up,S. Arabia
+Hindustan Unilever,75.61,32.18,2.6,up,India
+Foxconn Industrial Internet,75.08,3.78,1.85,up,China
+FedEx,75.05,305.02,2.01,up,USA
+Santander,75.03,4.79,1.44,down,Spain
+Equinor,75.02,27.09,0.33,down,Norway
+McKesson,75.0,578.26,0.28,up,USA
+Enel,74.28,7.31,1.21,down,Italy
+Mercedes-Benz,73.96,69.14,1.61,down,Germany
+Thomson Reuters,73.89,164.02,0.63,down,Canada
+CVS Health,73.65,58.67,0.56,down,USA
+Illinois Tool Works,73.62,246.73,0.33,up,USA
+Itōchū Shōji,73.15,50.84,1.04,up,Japan
+Diageo,72.85,129.22,1.85,down,UK
+Cintas,72.53,714.85,0.96,down,USA
+Daiichi Sankyō,72.47,37.96,0.43,up,Japan
+Freeport-McMoRan,72.42,50.42,1.39,down,USA
+Merck KGaA,72.32,166.36,0.56,up,Germany
+NXP Semiconductors,72.29,282.77,0.92,up,Netherlands
+British American Tobacco,71.7,32.2,1.26,down,UK
+Brookfield Corporation,71.54,46.09,0.17,up,Canada
+Intesa Sanpaolo,71.29,3.95,0.4,up,Italy
+Porsche,71.02,77.97,5.02,down,Germany
+CME Group,70.93,197.01,1.85,up,USA
+Mitsui Bussan,70.9,23.83,1.45,up,Japan
+Marriott International,70.45,246.67,1.6,up,USA
+Parker-Hannifin,70.02,544.74,1.27,up,USA
+Target,69.99,151.3,1.01,down,USA
+Walmex,69.93,3.85,0.0,up,Mexico
+Apollo Global Management,69.7,122.5,1.63,up,USA
+ITC,69.63,5.57,0.46,up,India
+TransDigm,69.49,1242.0,0.03,down,USA
+Ecolab,69.06,241.85,1.73,down,USA
+Schlumberger,68.55,47.96,3.32,up,USA
+Sberbank,68.38,3.27,1.45,up,Russia
+Zijin Mining,68.24,2.64,2.07,up,China
+Wuliangye Yibin,68.1,17.54,0.02,down,China
+CSX Corporation,67.64,34.6,2.4,up,USA
+PNC Financial Services,67.25,169.02,1.23,up,USA
+Constellation Energy,67.1,212.88,1.96,down,USA
+Emerson,66.91,116.97,2.08,up,USA
+ADNOC Gas,66.86,0.87,0.0,up,UAE
+Munich RE (Münchener Rück),66.8,496.35,2.02,down,Germany
+Bank of Communications,66.57,1.03,0.27,down,China
+U.S. Bancorp,66.08,42.35,0.59,up,USA
+Westpac Banking,65.96,19.02,0.25,up,Australia
+Siemens Healthineers,65.84,58.87,1.14,down,Germany
+UniCredit,65.81,40.72,0.58,up,Italy
+Motorola Solutions,65.77,394.39,1.08,up,USA
+MediaTek,65.72,41.29,0.74,down,Taiwan
+London Stock Exchange,65.64,123.56,0.49,up,UK
+Postal Savings Bank of China,65.49,0.69,0.4,down,China
+Vinci,65.48,114.63,0.24,down,France
+Becton Dickinson,65.33,226.08,1.32,down,USA
+Nintendo,65.08,55.71,1.02,down,Japan
+Constellation Software,64.92,3064.0,1.03,up,Canada
+Aon,64.64,297.31,0.28,down,UK
+Enterprise Products,64.27,29.6,0.68,up,USA
+Northrop Grumman,63.98,431.92,0.07,down,USA
+Nu Holdings,63.88,13.34,0.52,down,Brazil
+Palantir,63.84,28.67,2.14,up,USA
+Marvell Technology Group,63.7,73.6,0.01,up,USA
+Bank of Montreal,63.36,86.72,0.09,up,Canada
+Republic Services,63.36,201.19,0.47,up,USA
+PayPal,63.25,60.47,0.33,up,USA
+Chugai Pharmaceutical,62.99,38.28,3.5,down,Japan
+Welltower,62.98,105.34,1.09,up,USA
+SABIC,62.43,20.81,0.65,up,S. Arabia
+Midea,61.74,8.85,1.03,down,China
+Workday,61.69,232.47,1.07,up,USA
+Banco Bilbao Vizcaya Argentaria,61.56,10.64,0.0,up,Spain
+BMW,61.39,96.74,1.2,down,Germany
+O'Reilly Automotive,61.39,1042.0,0.22,up,USA
+Rosneft,61.12,5.79,1.99,up,Russia
+Carrier,60.69,67.36,2.06,up,USA
+Volkswagen,60.49,116.32,1.39,down,Germany
+NetEase,60.41,93.74,0.93,up,China
+ANZ Bank,60.32,20.1,0.17,down,Australia
+Itaú Unibanco,60.32,6.16,0.48,down,Brazil
+Spotify,60.14,302.15,0.04,down,Sweden
+Roper Technologies,59.85,559.15,0.14,up,USA
+Larsen & Toubro,59.84,43.53,0.41,down,India
+The Saudi National Bank,59.64,10.03,2.04,up,S. Arabia
+Coinbase,59.63,242.85,11.39,up,USA
+Stellantis,59.61,20.23,0.39,down,Netherlands
+Phillips 66,59.38,140.07,1.03,up,USA
+KDDI,59.22,28.44,0.44,down,Japan
+National Grid,59.11,60.81,2.16,down,UK
+Arthur J. Gallagher & Co.,59.09,270.46,0.22,down,USA
+ING,59.01,18.1,0.77,down,Netherlands
+Marathon Petroleum,58.73,166.71,0.76,up,USA
+LG Energy Solution,58.66,250.69,3.35,down,S. Korea
+Scotiabank,58.07,47.15,0.19,up,Canada
+Air Products and Chemicals,57.76,259.84,0.56,down,USA
+Alimentation Couche-Tard,57.05,59.63,0.09,up,Canada
+3M,56.84,102.72,1.27,down,USA
+Ford,56.54,14.23,1.43,up,USA
+America Movil,56.25,18.15,1.09,down,Mexico
+Simon Property Group,56.24,150.06,0.39,up,USA
+General Motors,56.22,49.3,0.59,up,USA
+Hilton Worldwide,55.75,222.99,1.03,up,USA
+Truist Financial,55.39,41.4,2.2,up,USA
+Energy Transfer Partners,55.25,16.39,0.86,up,USA
+Capital One,55.22,144.61,4.48,up,USA
+Occidental Petroleum,54.97,62.0,1.31,up,USA
+Mizuho Financial Group,54.87,4.33,0.23,down,Japan
+Paccar,54.79,104.55,1.4,up,USA
+Newmont,54.6,47.35,0.34,down,USA
+Heineken,54.58,96.87,0.11,up,Netherlands
+Autodesk,54.56,253.17,0.11,down,USA
+Universal Music Group,54.52,29.94,0.69,down,Netherlands
+Cement Roadstone Holding,54.38,79.58,0.2,up,Ireland
+Edwards Lifesciences,53.93,89.5,1.64,down,USA
+Wesfarmers,53.63,47.26,0.06,up,Australia
+Macquarie,53.19,138.12,0.17,up,Australia
+Lukoil,53.16,77.18,0.18,up,Russia
+Public Storage,53.07,302.04,0.19,down,USA
+Aflac,53.05,93.37,0.79,up,USA
+MetLife,52.92,74.43,1.42,up,USA
+Digital Realty,52.8,159.5,0.73,up,USA
+Copart,52.65,54.72,1.48,down,USA
+Supermicro,52.56,897.68,1.35,down,USA
+Chandra Asri Petrochemical,52.54,0.61,1.29,up,Indonesia
+Holcim Group,52.5,93.45,0.14,down,Switzerland
+Interactive Brokers,52.49,124.66,2.51,up,USA
+Volvo Group,52.41,25.99,0.0,up,Sweden
+Bajaj Finance,52.25,84.5,0.07,down,India
+Honda,52.22,32.49,0.31,down,Japan
+DHL Group (Deutsche Post),52.16,44.17,0.86,down,Germany
+Williams Companies,51.86,42.56,0.98,down,USA
+Saudi Telecom Company,51.73,10.38,0.0,up,S. Arabia
+American International Group,51.51,77.62,0.62,up,USA
+Norfolk Southern,51.45,227.76,2.9,up,USA
+Tamboran Resources,50.93,24.72,2.79,up,Australia
+HCL Technologies,50.87,18.79,0.0,up,India
+OCBC Bank,50.63,11.27,1.24,down,Singapore
+Xiaomi,50.6,2.07,5.05,down,China
+Grupo México,50.28,6.34,0.0,up,Mexico
+Infineon,50.27,38.75,0.56,down,Germany
+AutoZone,50.24,2941.0,0.71,up,USA
+Rolls-Royce Holdings,50.12,5.89,1.11,up,UK
+D. R. Horton,50.1,152.16,1.03,down,USA
+BAE Systems,50.02,16.51,0.47,down,UK
+Suncor Energy,50.01,38.86,1.54,up,Canada
+ENI,49.53,31.17,0.26,up,Italy
+Oneok,49.42,84.68,0.02,up,USA
+Microchip Technology,49.4,92.09,0.56,down,USA
+Ross Stores,49.39,148.08,2.41,down,USA
+Vale,49.38,11.51,0.09,down,Brazil
+Monster Beverage,49.13,49.86,1.91,down,USA
+Japan Tobacco,49.02,27.61,0.09,up,Japan
+Valero Energy,49.0,148.75,0.56,up,USA
+The Trade Desk,48.95,100.09,0.61,up,USA
+The Travelers Companies,48.86,213.4,0.85,up,USA
+Realty Income,48.74,55.98,0.41,up,USA
+GE Vernova,48.63,177.44,1.67,down,USA
+Industrial Bank,48.6,2.34,0.18,down,China
+Oil & Natural Gas,48.59,3.86,0.05,up,India
+Manulife Financial,48.56,27.08,0.22,down,Canada
+BNY Mellon (Bank of New York Mellon),48.49,65.71,1.58,up,USA
+Dassault Systèmes,48.32,36.9,2.17,down,France
+Axis Bank,48.24,15.61,0.28,down,India
+Sempra Energy,48.1,76.02,1.34,down,USA
+Compass Group,48.01,28.23,0.18,up,UK
+American Electric Power,47.93,90.94,0.02,down,USA
+TE Connectivity,47.82,156.18,0.24,up,Switzerland
+Lloyds Banking Group,47.61,3.01,0.33,down,UK
+Maruti Suzuki India,47.56,151.3,0.03,down,India
+United Rentals,47.51,707.41,4.1,up,USA
+Kimberly-Clark,47.47,141.01,0.37,down,USA
+Johnson Controls,47.16,70.01,0.04,up,Ireland
+CIBC,47.11,49.88,2.99,up,Canada
+Denso,47.06,16.17,0.79,down,Japan
+Hyundai,47.05,60.74,2.93,up,S. Korea
+Oriental Land,47.02,28.7,1.24,down,Japan
+Fortescue,46.93,15.24,0.49,up,Australia
+Nongfu Spring,46.9,4.17,2.84,down,China
+Atlassian,46.84,179.95,0.83,down,Australia
+Charter Communications,46.75,324.59,4.36,up,USA
+Sika,46.64,290.73,0.27,down,Switzerland
+Moderna,46.55,121.48,0.02,up,USA
+Goodman Group,46.45,24.46,1.54,up,Australia
+Waste Connections,46.44,179.99,0.3,down,USA
+Hess,46.4,150.61,1.5,up,USA
+W. W. Grainger,46.32,942.78,2.65,up,USA
+Humana,46.29,384.21,0.52,up,USA
+Pacific Gas and Electric,46.2,17.67,2.48,down,USA
+Fortinet,45.75,59.9,0.59,up,USA
+Ares Management,45.67,145.98,2.41,up,USA
+Constellation Brands,45.47,249.53,3.96,down,USA
+Sun Pharmaceutical,45.35,18.9,0.43,down,India
+Mindray,45.35,37.41,2.05,down,China
+Prudential Financial,45.07,125.54,1.84,up,USA
+Crédit Agricole,44.97,14.87,0.07,up,France
+DexCom,44.94,113.01,0.92,down,USA
+Tata Motors,44.88,12.22,0.32,down,India
+Hoya,44.86,128.48,0.85,down,Japan
+Crown Castle,44.8,103.12,0.42,down,USA
+Snowflake,44.76,133.72,1.5,down,USA
+Kinder Morgan,44.76,20.17,0.1,down,USA
+Murata Manufacturing (Murata Seisakusho),44.62,23.83,5.54,up,Japan
+L3Harris Technologies,44.48,234.54,1.51,up,USA
+Block,44.46,72.06,4.83,up,USA
+Experian,44.38,48.0,0.0,up,Ireland
+Alcon,44.37,89.96,1.94,down,Switzerland
+Keurig Dr Pepper,44.28,32.67,0.15,up,USA
+Ameriprise Financial,44.27,445.8,0.11,down,USA
+Adidas,44.24,247.79,1.77,down,Germany
+Maaden,44.18,11.97,1.47,up,S. Arabia
+NTPC Limited,44.15,4.55,1.35,down,India
+Bank Rakyat Indonesia,44.09,0.29,1.87,down,Indonesia
+Allstate,44.05,166.91,1.97,up,USA
+Givaudan,43.97,4766.0,0.49,down,Switzerland
+Paychex,43.8,121.63,2.81,up,USA
+Cencora,43.75,222.2,0.18,down,USA
+Disco Corp.,43.41,400.64,1.49,up,Japan
+Lennar,43.38,159.18,0.44,down,USA
+Barclays,43.35,11.74,1.21,up,UK
+CITIC Bank,43.35,0.89,1.37,down,China
+MPLX,43.3,42.36,1.07,up,USA
+Datadog,43.28,129.42,1.26,up,USA
+DoorDash,43.2,105.65,0.62,up,USA
+Royal Caribbean,43.16,167.72,0.79,up,USA
+Compagnie de Saint-Gobain,43.1,85.86,0.23,up,France
+Takeda Pharmaceutical,43.02,13.39,0.37,down,Japan
+Kotak Mahindra Bank,42.95,21.61,2.07,down,India
+Luxshare Precision,42.79,5.94,5.32,up,China
+Dominion Energy,42.77,51.03,1.81,down,USA
+Hindustan Aeronautics,42.66,63.79,3.18,down,India
+Samsung Biologics,42.43,596.16,0.61,up,S. Korea
+Adani Enterprises,42.42,37.22,0.61,up,India
+Old Dominion Freight Line,42.42,195.25,2.64,up,USA
+BASF,42.4,47.51,0.13,down,Germany
+Monolithic Power Systems,42.38,870.91,1.78,up,USA
+Fidelity National Information Services,42.33,76.11,0.41,down,USA
+Daikin,42.0,143.47,2.03,down,Japan
+Jingdong Mall,41.83,26.65,5.33,down,China
+CaixaBank,41.48,5.71,0.04,up,Spain
+Ferguson,41.46,205.74,0.85,up,UK
+Kering,41.44,338.11,3.47,down,France
+Fomento Económico Mexicano,41.36,115.61,1.61,down,Mexico
+Sea (Garena),41.27,71.87,2.65,down,Singapore
+UOB,41.2,24.6,0.3,up,Singapore
+Lonza,41.17,570.96,0.93,down,Switzerland
+IQVIA,41.15,225.89,0.77,up,USA
+Mitsubishi Heavy Industries,41.08,12.23,5.04,up,Japan
+Danone,40.83,63.45,0.27,down,France
+TC Energy,40.69,39.17,0.41,up,Canada
+Cheniere Energy,40.66,177.66,0.06,up,USA
+Nordea Bank,40.37,11.49,0.28,down,Finland
+UltraTech Cement,40.21,139.56,1.48,down,India
+Otis Worldwide,40.2,99.44,0.77,down,USA
+Haleon,40.09,8.78,1.35,down,UK
+IDEXX Laboratories,39.86,482.7,2.04,down,USA
+Ametek,39.83,172.11,1.53,up,USA
+Ingersoll Rand,39.82,98.66,1.42,up,Ireland
+Wolters Kluwer,39.75,167.99,0.55,up,Netherlands
+MSCI,39.73,501.5,0.1,down,USA
+Kuwait Finance House,39.68,2389.0,0.14,down,Kuwait
+ASM International,39.61,806.72,0.03,down,Netherlands
+Verisk Analytics,39.59,277.5,0.04,up,USA
+Nucor,39.52,164.87,2.34,up,USA
+Cummins,39.51,288.93,1.43,up,USA
+FICO,39.29,1590.0,0.1,up,USA
+DMart,39.25,60.33,1.02,up,India
+Generali,39.23,25.41,0.38,down,Italy
+Kraft Heinz,39.2,32.29,0.69,up,USA
+Corning,39.19,45.76,0.31,up,USA
+Hong Kong Exchanges & Clearing,39.17,30.98,2.34,down,Hong Kong
+Grayscale Bitcoin Trust,38.97,56.29,10.07,up,USA
+Reckitt Benckiser,38.89,55.72,0.42,up,UK
+Hikvision,38.84,4.16,0.73,up,China
+Fastenal,38.84,67.83,3.65,up,USA
+Banco Santander Brasil,38.77,5.19,0.57,down,Brazil
+Adani Ports & SEZ,38.76,17.94,0.27,up,India
+STMicroelectronics,38.73,42.13,1.27,down,Switzerland
+Cenovus Energy,38.59,20.65,3.77,up,Canada
+Electronic Arts,38.53,145.0,0.47,down,USA
+Deutsche Börse,38.49,207.95,0.08,down,Germany
+QNB (Qatar National Bank),38.44,4.16,0.33,down,Qatar
+Imperial Oil,38.42,71.41,1.38,up,Canada
+Emirates Telecom (Etisalat Group),38.31,4.41,0.62,up,UAE
+3i Group,38.29,39.71,0.16,down,UK
+Agilent Technologies,38.22,131.01,0.92,down,USA
+The Hershey Company,38.2,188.92,0.01,down,USA
+EQT,38.19,32.3,0.17,down,Sweden
+Quanta Computer,38.16,9.9,0.15,down,Taiwan
+Powergrid Corporation of India,38.13,4.1,0.41,down,India
+Woodside Energy,37.99,20.01,0.05,up,Australia
+Adyen,37.97,1223.0,1.56,down,Netherlands
+Coupang,37.86,21.18,2.93,down,S. Korea
+Coal India,37.8,6.13,2.95,up,India
+First Abu Dhabi Bank,37.77,3.42,0.48,up,UAE
+Quanta Services,37.65,257.24,4.3,down,USA
+Kroger,37.61,52.12,0.7,down,USA
+Diamondback Energy,37.61,210.93,3.31,up,USA
+Mitsubishi Electric,37.58,18.0,2.7,up,Japan
+Singtel,37.47,2.27,1.33,up,Singapore
+Dow,37.45,53.27,0.68,up,USA
+Agnico Eagle Mines,37.31,74.75,0.49,down,Canada
+Loblaw Companies,37.24,121.43,0.14,down,Canada
+MS&AD Insurance,37.2,23.64,1.22,up,Japan
+PSEG,37.12,74.54,2.28,down,USA
+Bayan Resources,36.99,1.11,0.14,down,Indonesia
+Corteva,36.87,52.9,0.38,down,USA
+Flutter Entertainment,36.81,207.21,0.01,down,Ireland
+Mahindra & Mahindra,36.78,33.0,0.94,up,India
+Fubon Financial,36.64,2.82,0.88,up,Taiwan
+Bank Mandiri,36.64,0.39,0.0,up,Indonesia
+GE HealthCare Technologies,36.6,80.19,0.11,down,USA
+ENGIE,36.59,15.09,0.43,down,France
+Renesas Electronics,36.55,20.54,1.37,up,Japan
+Anglo American,36.54,30.14,1.69,down,UK
+HP,36.53,37.34,1.66,up,USA
+Arch Capital,36.48,97.16,0.68,up,Bermuda
+Nasdaq,36.32,63.0,0.48,up,USA
+Estee Lauder,36.22,101.04,2.24,down,USA
+Maybank,36.2,6.0,2.44,down,Malaysia
+Naspers,36.18,39.64,3.03,down,South Africa
+Exor,36.11,106.34,0.31,down,Netherlands
+Yum! Brands,36.01,127.89,2.6,down,USA
+Cognizant Technology Solutions,36.01,72.43,1.26,up,USA
+Jiangsu Hengrui Medicine,35.95,5.64,0.42,up,China
+Baker Hughes,35.87,35.71,3.51,up,USA
+WEG ON,35.86,8.55,1.37,up,Brazil
+Partners Group,35.82,1379.0,0.68,down,Switzerland
+Extra Space Storage,35.8,162.4,0.3,up,USA
+Shanghai Pudong Development Bank,35.79,1.22,0.23,down,China
+Sysco,35.75,71.8,0.51,down,USA
+lululemon athletica,35.46,283.72,2.52,down,Canada
+Capgemini,35.45,209.15,0.03,down,France
+Japan Post Bank,35.44,9.8,0.94,up,Japan
+Exelon Corporation,35.35,35.35,0.31,up,USA
+Wanhua Chemical,35.33,11.25,0.21,up,China
+Gartner,35.32,455.02,0.08,down,USA
+CITIC Securities,35.28,2.58,1.46,up,China
+NatWest Group,35.22,8.46,0.7,down,UK
+Centene,35.22,66.0,2.74,down,USA
+General Mills,35.08,62.86,0.27,down,USA
+Swiss Re,35.06,120.75,2.48,down,Switzerland
+DSV,35.06,168.65,0.83,down,Denmark
+Wipro,34.98,6.68,0.6,down,India
+Kia,34.84,88.92,2.42,up,S. Korea
+Kenvue,34.67,18.11,1.25,down,USA
+E.ON,34.62,13.26,0.94,down,Germany
+Henkel,34.55,88.3,0.59,down,Germany
+Coca-Cola European Partners,34.43,72.99,1.5,down,UK
+Pernod Ricard,34.4,136.92,1.1,down,France
+Discover Financial Services,34.34,137.06,4.4,up,USA
+Titan Company,34.34,38.71,0.31,up,India
+Martin Marietta,34.3,556.57,0.37,up,USA
+Kühne + Nagel,34.27,289.72,1.09,up,Switzerland
+Asian Paints,34.13,35.61,0.61,up,India
+Muyuan Foods,34.07,6.23,1.41,up,China
+Thales,33.93,165.21,1.11,down,France
+Novatek,33.84,11.47,0.83,up,Russia
+Baidu,33.75,93.15,5.98,down,China
+Japan Post Holdings,33.71,10.63,1.48,up,Japan
+Ambev,33.65,2.14,0.47,down,Brazil
+Beiersdorf,33.61,148.21,0.69,down,Germany
+Vulcan Materials,33.57,253.9,0.55,up,USA
+Dupont De Nemours,33.53,80.2,0.84,down,USA
+China Pacific Insurance,33.52,3.89,0.39,up,China
+Hindustan Zinc,33.48,7.93,0.36,up,India
+Adani Green Energy,33.37,21.07,1.08,up,India
+Xylem,33.28,137.3,0.81,down,USA
+Indian Railway Finance,33.18,2.54,1.95,down,India
+SMC corp,33.06,515.54,0.42,up,Japan
+Daimler Truck,33.04,41.08,1.15,down,Germany
+Assa Abloy,32.9,27.97,6.54,up,Sweden
+Vertiv Holdings,32.9,87.89,1.99,down,USA
+Adani Power,32.89,8.53,0.55,up,India
+Delta Electronics,32.89,12.66,0.6,down,Taiwan
+ON Semiconductor,32.85,76.37,0.65,down,USA
+Deutsche Bank,32.78,16.57,0.42,down,Germany
+Garmin,32.67,170.12,0.78,up,Switzerland
+Restaurant Brands International,32.62,72.37,0.77,down,Canada
+Rockwell Automation,32.51,285.2,0.65,up,USA
+Bajaj Auto,32.48,116.33,0.47,up,India
+Alnylam Pharmaceuticals,32.4,256.18,1.66,down,USA
+Trip.com,32.38,47.79,4.93,down,China
+Barrick Gold,32.31,18.36,0.86,down,Canada
+Delta Electronics (Thailand),32.3,2.59,3.89,up,Thailand
+Biogen,32.26,221.58,3.69,down,USA
+Invest Bank,32.24,0.12,0.0,up,UAE
+Marubeni,32.24,19.41,2.57,up,Japan
+Howmet Aerospace,32.2,78.9,0.42,down,USA
+Gazprom,32.16,1.36,0.83,up,Russia
+Haier Smart Home,32.03,3.68,0.45,up,China
+Equifax,32.01,258.97,0.39,up,USA
+Siemens India,31.83,89.4,2.24,down,India
+VICI Properties,31.59,30.29,2.85,up,USA
+Aena,31.52,210.18,0.46,down,Spain
+Las Vegas Sands,31.47,42.25,1.12,down,USA
+Dubai Electricity and Water Authority (DEWA),31.44,0.63,0.0,up,UAE
+Archer Daniels Midland (ADM),31.34,63.4,1.37,down,USA
+DSM-Firmenich,31.32,118.06,0.28,up,Switzerland
+CDW Corporation,31.28,232.77,1.87,up,USA
+Consolidated Edison,31.21,90.26,2.09,down,USA
+Intact Financial,31.18,174.93,0.66,up,Canada
+Halliburton,31.18,35.23,3.8,up,USA
+LyondellBasell,31.14,95.65,0.62,up,USA
+CoStar Group,31.05,76.01,0.29,up,USA
+Sumitomo,31.02,25.65,1.6,up,Japan
+Zscaler,30.9,204.47,1.27,up,USA
+Bank of China (Hong Kong),30.88,2.92,1.94,down,Hong Kong
+QNB Finansbank,30.87,9.22,0.91,up,Turkey
+Fujitsu,30.86,16.78,2.59,up,Japan
+Alpha Dhabi,30.82,3.08,0.18,up,UAE
+China State Construction Engineering,30.76,0.74,0.56,down,China
+Hannover Rück,30.75,254.99,2.3,down,Germany
+Bajaj Finserv,30.73,19.27,0.46,up,India
+PPG Industries,30.69,130.88,0.2,up,USA
+Advantest,30.43,41.21,1.05,up,Japan
+The Hartford,30.36,102.68,0.91,up,USA
+Swisscom,30.3,585.03,0.38,down,Switzerland
+Hexagon,30.25,11.45,0.0,up,Sweden
+Ferrovial,30.23,41.6,0.37,down,Spain
+GlobalFoundries,30.19,54.72,0.44,up,USA
+ResMed,30.16,205.31,0.23,up,USA
+Devon Energy,30.15,48.05,3.38,up,USA
+Nestlé India,30.09,31.21,0.08,up,India
+Veeva Systems,30.02,185.74,1.16,down,USA
+Vistra,29.94,86.19,5.63,down,USA
+DNB,29.92,20.09,0.23,down,Norway
+Ashtead,29.92,68.57,1.16,down,UK
+BCE,29.88,32.7,0.71,up,Canada
+Telstra,29.86,2.58,0.26,down,Australia
+Gree Electric Appliances,29.82,5.3,0.39,down,China
+Targa Resources,29.78,134.34,0.53,down,USA
+Hapag-Lloyd,29.69,168.97,5.01,up,Germany
+Xcel Energy,29.57,53.23,1.93,down,USA
+Amadeus IT Group,29.53,67.83,1.36,down,Spain
+Cathay Financial Holding,29.45,2.01,0.62,up,Taiwan
+UCB,29.43,155.13,1.15,down,Belgium
+CBRE Group,29.4,95.85,1.27,up,USA
+Ahold Delhaize,29.36,31.34,0.63,up,Netherlands
+Sun Life Financial,29.24,50.46,0.36,up,Canada
+7-Eleven,29.24,11.27,1.57,down,Japan
+Emirates NBD Bank PJSC,29.23,4.63,0.0,up,UAE
+Tractor Supply,29.19,270.84,0.08,down,USA
+BTG Pactual,29.19,2.87,0.45,up,Brazil
+Fujifilm,29.1,24.17,0.5,up,Japan
+Mettler-Toledo,29.01,1359.0,0.05,down,USA
+The People's Insurance Company (PICC),28.98,0.73,0.56,down,China
+Wabtec,28.95,164.16,0.79,up,USA
+Rocket Companies,28.93,14.56,1.61,up,USA
+AppLovin,28.93,87.93,3.62,up,USA
+Orange,28.89,10.87,0.37,up,France
+AvalonBay Communities,28.89,203.21,0.64,up,USA
+Indian Oil,28.86,2.04,0.61,up,India
+KBC,28.85,72.5,0.0,up,Belgium
+Novozymes,28.84,62.16,0.97,down,Denmark
+Komatsu,28.82,30.85,2.99,up,Japan
+China Unicom,28.81,0.94,0.0,up,Hong Kong
+National Bank of Canada,28.79,82.53,0.68,down,Canada
+Iron Mountain,28.67,97.83,2.02,up,USA
+Ansys,28.58,327.46,0.58,down,USA
+MicroStrategy,28.57,1611.0,15.36,up,USA
+Bharat Electronics,28.53,3.9,1.58,down,India
+Tesco,28.52,4.16,0.0,up,UK
+Woolworths Group,28.47,23.31,0.55,up,Australia
+Chunghwa Telecom,28.45,36.4,0.3,down,Taiwan
+Cloudflare,28.34,83.43,1.48,up,USA
+Celltrion,28.33,136.52,0.0,up,S. Korea
+COSCO Shipping,28.31,1.85,0.07,down,China
+Banco do Brasil,28.27,4.95,0.45,up,Brazil
+Pinterest,28.25,41.36,0.17,up,USA
+ICON plc,28.21,340.86,1.44,up,Ireland
+Edison International,28.1,73.05,2.39,down,USA
+CRRC,28.09,0.62,1.42,down,China
+Coloplast,28.05,124.69,1.73,down,Denmark
+Dollar General,27.91,126.96,4.12,down,USA
+Luzhou Laojiao,27.87,18.93,0.53,down,China
+Argenx,27.86,461.94,0.96,down,Netherlands
+Hewlett Packard Enterprise,27.86,21.44,1.28,up,USA
+Chocoladefabriken Lindt & Sprüngli,27.84,11890.0,0.0,up,Switzerland
+Bayer,27.8,28.3,1.61,down,Germany
+Verbund AG,27.79,81.38,2.29,down,Austria
+Delta Air Lines,27.75,43.0,1.42,down,USA
+Ping An Bank,27.5,1.42,0.29,down,China
+Dai-ichi Life Holdings,27.43,29.31,2.18,up,Japan
+Great-West Lifeco,27.33,29.31,0.02,up,Canada
+Canon,27.29,28.28,1.75,up,Japan
+HEICO,27.27,225.17,0.51,down,USA
+JSW Steel,27.25,11.18,0.28,up,India
+Fanuc,27.23,28.8,2.7,up,Japan
+Schindler Group,27.2,251.76,0.22,down,Switzerland
+Legrand,27.17,103.67,0.48,down,France
+SMIC,27.11,2.32,0.33,down,China
+CITIC limited,27.09,0.93,1.09,down,China
+Mitsui Fudosan,27.08,9.67,0.39,down,Japan
+Michelin,27.06,37.95,0.66,down,France
+Fairfax Financial,27.02,1157.0,0.11,up,Canada
+Wheaton Precious Metals,27.01,59.49,0.17,down,Canada
+Transurban,27.0,8.73,0.31,up,Australia
+eBay,26.96,53.72,0.87,down,USA
+Willis Towers Watson,26.92,263.33,0.33,down,UK
+Antofagasta,26.88,27.27,1.96,down,UK
+Fortive,26.83,76.23,0.85,up,USA
+NetApp,26.83,130.38,0.16,up,USA
+Take 2 Interactive,26.82,153.31,0.03,down,USA
+TDK,26.81,70.68,5.41,up,Japan
+Dollarama,26.74,94.23,0.15,down,Canada
+Ryanair,26.73,118.55,0.78,down,Ireland
+Publicis Groupe,26.7,107.03,0.51,down,France
+Dr. Sulaiman Al Habib Medical Services Group Company,26.69,76.26,0.63,up,S. Arabia
+Toyota Industries,26.65,85.86,0.04,down,Japan
+Fifth Third Bank,26.64,39.16,1.77,up,USA
+Snap,26.6,16.21,0.19,up,USA
+ORIX,26.59,115.8,0.42,down,Japan
+Brown & Brown,26.59,93.23,0.54,down,USA
+Bridgestone,26.58,38.83,1.39,down,Japan
+American Water Works,26.56,136.33,1.98,down,USA
+T. Rowe Price,26.51,118.74,0.61,up,USA
+Anta Sports,26.51,9.43,0.94,down,China
+Great Wall Motors,26.46,3.66,1.41,up,China
+RWE,26.42,35.53,0.43,down,Germany
+M&T Bank,26.42,158.36,2.03,up,USA
+Roblox,26.3,41.11,1.43,up,USA
+KONE,26.26,50.76,0.66,down,Finland
+Kaspi.kz Joint Stock Company,26.24,136.27,3.31,up,Kazakhstan
+Foshan Haitian Flavouring and Food,26.21,4.71,0.26,down,China
+Jio Financial Services,26.18,4.12,3.14,down,India
+Sun Hung Kai Properties,26.14,9.02,2.29,down,Hong Kong
+Jardine Matheson,26.13,36.25,0.83,up,Hong Kong
+Blue Owl Capital,26.0,17.81,0.62,up,USA
+H&M,26.0,16.14,0.78,down,Sweden
+Teck Resources,25.96,50.0,1.54,down,Canada
+Prudential,25.95,18.66,2.66,down,UK
+Terumo,25.86,17.42,1.19,up,Japan
+Kuaishou Technology,25.83,5.93,3.24,down,China
+Equity Residential,25.74,67.93,1.1,up,USA
+Freddie Mac,25.73,7.99,13.66,up,USA
+Western Digital,25.73,78.82,0.06,up,USA
+Sandvik,25.61,20.42,0.64,down,Sweden
+First Citizens BancShares,25.61,1776.0,1.53,up,USA
+SSE,25.58,23.54,0.33,down,UK
+Vonovia,25.56,31.07,0.49,down,Germany
+Tencent Music,25.5,14.86,1.78,down,China
+Dover,25.42,184.99,0.25,up,USA
+Keysight,25.4,145.53,2.41,up,USA
+Global Payments,25.39,99.5,2.1,up,USA
+China Everbright Bank,25.39,0.46,0.6,up,China
+ASE Group,25.37,11.75,1.26,down,Taiwan
+PTT PCL,25.31,0.89,2.29,down,Thailand
+Cellnex Telecom,25.28,35.84,0.27,up,Spain
+NVR,25.27,8069.0,0.08,up,USA
+WEC Energy Group,25.14,79.61,1.46,down,USA
+Raymond James,25.1,121.11,0.04,up,USA
+Nidec,25.09,43.64,1.61,down,Japan
+Philips,25.07,26.0,2.55,down,Netherlands
+Maersk,25.04,1606.0,1.01,up,Denmark
+DLF,25.0,10.1,1.25,up,India
+"Cheniere Energy
+Partners",24.99,51.63,0.5,down,USA
+Tata Steel,24.96,2.0,0.19,up,India
+Teradyne,24.89,159.49,2.02,up,USA
+Varun Beverages,24.87,19.14,1.77,down,India
+Danske Bank,24.84,29.29,0.85,down,Denmark
+Nutrien,24.77,50.01,0.66,up,Canada
+Church & Dwight,24.74,101.18,2.87,down,USA
+Banco Bradesco,24.61,2.32,0.85,down,Brazil
+Broadridge Financial Solutions,24.59,208.14,1.31,up,USA
+International Flavors & Fragrances,24.56,96.2,2.16,down,USA
+Franco-Nevada,24.53,127.31,1.39,down,Canada
+Telefónica,24.53,4.35,1.36,down,Spain
+PulteGroup,24.45,116.24,0.08,down,USA
+FirstRand,24.38,4.35,1.41,down,South Africa
+Otsuka Holdings,24.37,44.92,0.24,down,Japan
+Hang Seng Bank,24.32,12.86,0.69,down,Hong Kong
+Vodafone,24.27,9.03,1.2,down,UK
+China Resources Land,24.25,3.4,1.85,down,Hong Kong
+Veralto,24.19,98.01,0.76,down,USA
+Rheinmetall,24.14,555.11,1.01,down,Germany
+HubSpot,24.04,471.89,0.89,down,USA
+Banorte,24.03,8.34,1.1,down,Mexico
+Trent Limited,24.03,67.6,0.5,down,India
+Carnival Corporation,24.0,18.32,0.49,up,USA
+CGI,24.0,104.93,0.9,down,Canada
+Ørsted,23.78,56.6,0.0,up,Denmark
+State Street Corporation,23.78,78.94,0.48,up,USA
+Associated British Foods,23.71,31.98,0.2,down,UK
+KB Financial Group,23.68,61.16,1.43,down,S. Korea
+National Bank of Kuwait,23.64,2840.0,0.12,down,Kuwait
+Standard Chartered,23.64,9.37,0.66,down,UK
+Klabin,23.63,3.91,1.53,up,Brazil
+Epiroc,23.58,20.06,0.51,down,Sweden
+West Pharmaceutical,23.43,320.11,0.89,down,USA
+Rollins,23.41,48.32,2.21,down,USA
+DTE Energy,23.41,113.13,1.18,down,USA
+Axon Enterprise,23.29,308.64,5.46,up,USA
+Tradeweb,23.24,106.65,1.63,up,USA
+Evolution Gaming,23.22,110.07,0.26,up,Sweden
+Symbotic,23.16,39.63,3.2,up,USA
+Siemens Energy,23.16,29.01,1.95,up,Germany
+SAIC Motor,23.13,2.0,2.04,up,China
+CTBC Financial Holding,23.07,1.15,0.8,down,Taiwan
+Suzuki Motor,23.05,11.95,0.66,up,Japan
+Airports of Thailand,23.05,1.61,0.85,down,Thailand
+S.F. Express,23.01,4.78,0.06,up,China
+Ecopetrol,22.96,11.17,0.18,down,Colombia
+Grasim Industries,22.96,33.84,0.84,up,India
+Telus,22.94,15.51,0.19,down,Canada
+Vestas Wind Systems,22.93,22.73,1.27,down,Denmark
+NEC Corp,22.9,85.95,3.03,up,Japan
+Deckers Brands,22.88,899.58,0.17,up,USA
+Seagate Technology,22.87,108.94,1.72,up,Ireland
+First Solar,22.84,213.42,8.5,down,USA
+Cardinal Health,22.83,93.74,0.38,down,USA
+Entergy,22.81,106.83,2.14,down,USA
+China Tower,22.77,0.13,1.94,down,China
+Live Nation,22.76,98.38,0.45,up,USA
+Swedbank,22.76,20.23,0.92,down,Sweden
+Cameco,22.73,52.22,1.23,down,Canada
+East Money Information,22.7,1.44,1.16,up,China
+Naturgy,22.67,23.39,0.09,down,Spain
+Imperial Brands,22.65,26.53,0.58,down,UK
+Zomato,22.61,2.6,5.09,down,India
+SBA Communications,22.59,210.26,1.21,down,USA
+Techtronic Industries,22.41,12.23,0.42,down,Hong Kong
+Yili Group,22.37,3.52,0.2,up,China
+FirstEnergy,22.36,38.86,1.67,down,USA
+Dollar Tree,22.31,103.83,3.29,down,USA
+Alexandria Real Estate Equities,22.22,127.06,0.83,up,USA
+Aristocrat,22.14,35.03,3.26,down,Australia
+Veolia,22.13,30.93,0.63,down,France
+Tyler Technologies,22.11,520.91,0.41,down,USA
+PTC,22.09,184.53,0.99,up,USA
+Zimmer Biomet,21.91,106.53,1.99,down,USA
+Entegris,21.89,145.2,0.52,up,USA
+Industries Qatar,21.88,3.62,0.23,down,Qatar
+Li Auto,21.85,20.6,3.2,down,China
+Ericsson,21.83,6.49,2.84,down,Sweden
+Central Japan Railway,21.82,22.18,0.48,down,Japan
+Steris,21.79,220.5,0.55,down,Ireland
+Pembina Pipeline,21.79,37.52,0.66,down,Canada
+Riyad Bank,21.73,7.26,1.87,up,S. Arabia
+Mobileye,21.73,26.95,1.85,up,Israel
+Nokia,21.71,3.92,1.75,down,Finland
+Power Finance Corp,21.7,6.58,1.51,down,India
+WiseTech Global,21.7,65.1,1.19,down,Australia
+Invitation Homes,21.61,35.28,0.25,down,USA
+Sampo,21.53,43.08,1.42,down,Finland
+Nornickel,21.51,1.41,1.43,up,Russia
+China Minsheng Bank,21.42,0.52,0.27,up,China
+Alinma Bank,21.4,8.62,0.47,up,S. Arabia
+Pure Storage,21.4,65.81,0.94,up,USA
+Sompo Holdings,21.39,21.72,1.71,up,Japan
+Ventas,21.3,52.64,0.34,up,USA
+POSCO,21.28,69.38,2.84,down,S. Korea
+Toyota Tsusho,21.24,20.13,0.73,up,Japan
+Weyerhaeuser,21.17,29.04,0.82,down,USA
+BOE Technology,21.13,0.57,3.27,up,China
+Robinhood,21.03,23.94,7.45,up,USA
+The Saudi British Bank,20.99,10.22,0.0,up,S. Arabia
+CLP Group,20.96,8.3,0.15,down,Hong Kong
+ČEZ Group,20.95,39.04,0.11,down,Czech Republic
+ABB India,20.88,98.54,0.23,down,India
+Eversource Energy,20.87,59.26,1.79,down,USA
+Brown Forman,20.86,44.53,1.0,down,USA
+Mitsubishi Estate,20.8,16.5,1.53,down,Japan
+Swiss Life,20.79,749.15,0.86,down,Switzerland
+Markel,20.78,1598.0,0.01,down,USA
+NTT Data,20.75,14.8,0.24,up,Japan
+Samsara,20.73,37.65,0.37,up,USA
+Steel Dynamics,20.72,131.91,2.08,up,USA
+W. R. Berkley,20.71,54.02,1.07,up,USA
+GoDaddy,20.68,146.79,1.0,up,USA
+PPL,20.63,27.97,1.65,down,USA
+United Microelectronics,20.53,8.19,1.56,down,Taiwan
+Carlisle Companies,20.51,430.91,0.09,up,USA
+Endesa,20.48,19.37,1.2,down,Spain
+InterGlobe Aviation,20.48,53.04,1.03,up,India
+Tyson Foods,20.46,57.47,0.26,up,USA
+Geberit,20.45,614.28,0.11,down,Switzerland
+EnBW Energie,20.43,75.44,0.0,up,Germany
+Straumann,20.42,128.12,1.67,down,Switzerland
+Erste Group Bank,20.37,50.71,0.5,up,Austria
+Synchrony,20.36,50.72,3.28,up,USA
+Booz Allen Hamilton,20.35,157.22,0.59,down,USA
+Corpay,20.35,289.63,1.09,up,USA
+BioNTech,20.3,84.25,0.82,down,Germany
+Coterra Energy,20.28,27.25,0.55,up,USA
+George Weston,20.25,152.39,0.03,down,Canada
+Vedanta,20.22,5.45,0.86,down,India
+WSP Global,20.21,162.09,0.42,up,Canada
+Ambuja Cements,20.2,8.2,0.17,up,India
+Principal,20.17,86.08,1.35,up,USA
+HeidelbergCement,20.17,110.81,0.49,up,Germany
+Leidos,20.14,148.96,0.64,down,USA
+Nippon Steel,20.13,21.59,0.93,down,Japan
+Hubbell,20.11,374.6,1.54,down,USA
+Lennox,20.1,564.44,1.3,up,USA
+Rogers Communication,20.06,37.47,0.51,up,Canada
+Sungrow Power Supply,20.06,9.68,9.84,up,China
+Bank of Ningbo,19.95,3.02,0.99,down,China
+Société Générale,19.91,25.3,1.4,down,France
+Williams-Sonoma,19.91,154.87,2.35,down,USA
+Huntington Bancshares,19.89,13.73,1.4,up,USA
+Watsco,19.89,501.5,1.81,up,USA
+Talanx,19.87,76.96,2.08,down,Germany
+Bank of Jiangsu,19.85,1.08,0.25,down,China
+Kaō,19.72,42.42,0.47,down,Japan
+LPL Financial,19.71,263.95,0.11,up,USA
+LTIMindtree,19.7,66.58,1.54,up,India
+Teva Pharmaceutical Industries,19.7,17.08,1.16,down,Israel
+MTR Corporation,19.67,3.16,1.0,down,Hong Kong
+Genuine Parts Company,19.67,141.23,2.13,up,USA
+Aptiv,19.65,72.26,0.63,down,Ireland
+CK Hutchison Holdings,19.6,5.12,0.5,down,Hong Kong
+Standard Bank Group,19.58,11.82,1.38,down,South Africa
+Erie Indemnity,19.58,374.57,1.44,up,USA
+McCormick & Company,19.54,72.75,1.82,up,USA
+Fortis,19.52,39.51,1.1,down,Canada
+Emaar Properties,19.51,2.21,0.12,up,UAE
+Rural Electrification Corp,19.47,7.39,2.53,down,India
+China Railway Group,19.44,0.52,1.46,down,China
+SBI Life Insurance,19.43,19.41,0.49,up,India
+Telkom Indonesia,19.41,19.38,1.77,down,Indonesia
+Inpex,19.4,15.55,0.82,up,Japan
+Ameren,19.4,72.75,1.53,down,USA
+Ajinomoto,19.39,38.26,2.53,down,Japan
+Itaúsa,19.38,1.88,0.2,up,Brazil
+Elm Company,19.34,241.76,0.33,down,S. Arabia
+Pidilite,19.33,38.01,0.13,up,India
+Cincinnati Financial,19.31,123.26,0.75,up,USA
+Borouge,19.31,0.64,0.0,up,UAE
+Olympus,19.3,16.56,1.04,down,Japan
+PKN Orlen,19.26,16.59,3.33,down,Poland
+Kellogg's,19.25,56.32,0.39,down,USA
+ADNOC Drilling Company,19.25,1.2,0.45,up,UAE
+Panasonic,19.24,8.25,2.54,down,Japan
+Regions Financial,19.23,21.0,2.59,up,USA
+East Japan Railway,19.18,16.96,0.57,down,Japan
+PKO Bank Polski,19.18,15.35,1.73,down,Poland
+Shinhan Financial Group,19.17,37.13,1.38,down,S. Korea
+AerCap,19.16,96.65,0.86,up,Ireland
+Svenska Handelsbanken,19.14,9.63,0.15,down,Sweden
+DraftKings,19.13,39.48,4.28,up,USA
+Galaxy Entertainment,19.11,4.37,1.16,down,Hong Kong
+Z Holdings,19.1,2.55,1.8,down,Japan
+Check Point Software,19.09,172.05,0.16,up,Israel
+Coca-Cola FEMSA,19.09,86.09,2.29,down,Mexico
+Lasertec,19.01,210.86,0.3,down,Japan
+Unicharm,19.01,32.42,3.09,down,Japan
+Chongqing Changan,19.0,2.2,4.04,up,China
+Sany Heavy Industry,18.98,2.24,0.18,down,China
+Ball Corporation,18.96,61.11,0.51,up,USA
+China Tourism Group Duty Free,18.93,9.29,0.88,up,China
+Texas Pacific Land Trust,18.91,822.77,2.68,up,USA
+Prysmian Group,18.89,67.48,0.72,up,Italy
+ULTA Beauty,18.85,395.16,4.31,down,USA
+Polyus,18.84,138.68,0.82,up,Russia
+SM Prime Holdings,18.82,0.59,9.56,up,Philippines
+Westlake Chemical,18.81,146.36,0.2,down,USA
+Ems-Chemie,18.8,803.86,1.69,up,Switzerland
+Naver,18.77,124.15,2.67,down,S. Korea
+KE Holdings,18.77,14.75,5.63,down,China
+Power Corporation of Canada,18.75,29.09,0.2,down,Canada
+Astellas Pharma,18.73,10.45,0.12,down,Japan
+Teledyne,18.72,394.87,0.19,up,USA
+LG Chem,18.72,247.08,4.87,down,S. Korea
+Formosa Petrochemical,18.71,1.96,0.0,up,Taiwan
