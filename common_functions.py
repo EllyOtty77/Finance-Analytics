@@ -19,7 +19,7 @@ def get_headers():
 # Function to convert strings to appropriate financial values
 
 # Exchange rates to USD for  commonly used currencies
-exchange_rates = {'USD': 1.0, 'EUR': 1.09, 'GBP': 1.28,  'JPY': 0.0068,  'AUD': 0.65, 'CHF':1.17, 'CAD':1.37}
+exchange_rates = {'USD': 1.0, 'EUR': 1.09, 'GBP': 1.28,  'JPY': 0.0068,  'AUD': 0.65, 'CHF':1.17, 'CAD':1.37, 'R':18.74}
 
 def convert_values(value_text):
     """
