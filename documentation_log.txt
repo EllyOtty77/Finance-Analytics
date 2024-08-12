@@ -1,0 +1,123 @@
+npm update 
+
+## Create directories
+mkdir finance-web-app
+cd finance-web-app
+
+npm init -y
+
+## Create the Application Files & Directories
+
+app.js (main application file)
+views/ (directory for EJS templates)
+views/index.ejs (EJS template for displaying items)
+
+Ctrl + C to stop server
+
+# autorun incase of changes 
+npm install -g nodemon
+nodemon app.js
+
+# 8/12/24
+Created full web app with drop downs
+
+Setup and Configuration
+javascript
+-------
+const express = require('express');
+const { MongoClient } = require('mongodb');
+const path = require('path');
+const express = require('express');: Imports the Express framework, which is used for building the web server.
+const { MongoClient } = require('mongodb');: Imports the MongoClient class from the mongodb package to interact with MongoDB.
+const path = require('path');: Imports the path module, which helps with working with file and directory paths.
+javascript
+-------
+const app = express();
+const port = 3000;
+const app = express();: Creates an instance of the Express application.
+const port = 3000;: Sets the port number on which the server will listen for requests.
+
+Middleware and Templating Engine
+javascript
+-------
+// Set EJS as the templating engine
+app.set('view engine', 'ejs');
+app.set('view engine', 'ejs');: Configures the application to use EJS (Embedded JavaScript) as the templating engine. EJS is used to generate HTML dynamically.
+
+
+MongoDB Connection and Route Handling
+javascript
+-------
+const url = 'mongodb://localhost:27017';
+const dbName = 'companyFinance';
+const url = 'mongodb://localhost:27017';: Specifies the URL of the MongoDB server. localhost means it's running on your local machine, and 27017 is the default port for MongoDB.
+const dbName = 'companyFinance';: Sets the name of the MongoDB database to use.
+javascript
+-------
+app.get('/', async (req, res) => {
+    let client;
+
+    try {
+        client = await MongoClient.connect(url);
+        const db = client.db(dbName);
+app.get('/', async (req, res) => {: Defines a route handler for HTTP GET requests to the root URL (/). The handler is an asynchronous function, allowing the use of await for asynchronous operations.
+let client;: Declares a variable client that will hold the MongoDB client instance.
+client = await MongoClient.connect(url);: Connects to the MongoDB server using the provided URL. The await keyword ensures that the code waits for the connection to be established before moving on.
+const db = client.db(dbName);: Gets a reference to the specified database (companyFinance) from the connected MongoDB client.
+javascript
+-------
+        // Fetch the list of collections (industries)
+        const collections = await db.listCollections().toArray();
+        const industries = collections.map(col => col.name);
+const collections = await db.listCollections().toArray();: Retrieves a list of all collections (tables) in the database and converts the result to an array.
+const industries = collections.map(col => col.name);: Maps over the list of collections to extract their names into an industries array.
+javascript
+-------
+        // Fetch the selected industry from query parameters
+        const selectedIndustry = req.query.industry || industries[0];
+        const collection = db.collection(selectedIndustry);
+const selectedIndustry = req.query.industry || industries[0];: Gets the selected industry from the query parameters of the request. If not provided, defaults to the first industry in the list.
+const collection = db.collection(selectedIndustry);: Gets a reference to the collection corresponding to the selected industry.
+javascript
+-------
+        // Fetch distinct sectors
+        const sectors = await collection.distinct('Industry');
+const sectors = await collection.distinct('Industry');: Fetches all unique values of the Industry field from the selected collection.
+javascript
+-------
+        // Fetch the selected sector from query parameters
+        const selectedSector = req.query.sector || sectors[0];
+const selectedSector = req.query.sector || sectors[0];: Gets the selected sector from the query parameters of the request. If not provided, defaults to the first sector in the list.
+javascript
+-------
+        // Fetch the top 20 items sorted by Industry and then by Revenue ($B) in descending order for the selected sector
+        const items = await collection.find({ Industry: selectedSector })
+            .sort({ Industry: 1, "Income.Revenue ($B)": -1 })
+            .limit(20)
+            .toArray();
+const items = await collection.find({ Industry: selectedSector }): Queries the collection to find documents where the Industry field matches the selected sector.
+.sort({ Industry: 1, "Income.Revenue ($B)": -1 }): Sorts the results first by Industry in ascending order and then by Income.Revenue ($B) in descending order.
+.limit(20): Limits the results to the top 20 documents.
+.toArray();: Converts the query result to an array of documents.
+javascript
+-------
+        res.render('index', { items, industries, selectedIndustry, sectors, selectedSector });
+    } catch (err) {
+        console.error('Error connecting to MongoDB or fetching data:', err);
+        res.status(500).send('Internal Server Error');
+    } finally {
+        if (client) {
+            client.close();
+        }
+    }
+});
+res.render('index', { items, industries, selectedIndustry, sectors, selectedSector });: Renders the index.ejs template with the data (items, industries, selected industry, sectors, and selected sector).
+catch (err) { console.error('Error connecting to MongoDB or fetching data:', err); res.status(500).send('Internal Server Error'); }: Catches any errors during the MongoDB connection or data fetching, logs the error, and sends a 500 Internal Server Error response.
+finally { if (client) { client.close(); } }: Ensures that the MongoDB client is closed properly after the operation, regardless of whether an error occurred.
+javascript
+-------
+app.listen(port, () => {
+    console.log(`Server is running on http://localhost:${port}`);
+});
+app.listen(port, () => { console.log(Server is running on http://localhost:${port}`); });`: Starts the Express server and listens on the specified port. Logs a message to the console indicating that the server is running and accessible at the specified URL.
+This setup creates a simple web server that connects to a MongoDB database, fetches data based on user queries, and renders a dynamic HTML page using EJS.
