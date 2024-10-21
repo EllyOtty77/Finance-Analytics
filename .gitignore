@@ -1,5 +1,5 @@
-# Ignore myenv directory
-myenv/
+# Ignore venv directory
+finenv/
 
 # Ignore Python bytecode files
 __pycache__/
