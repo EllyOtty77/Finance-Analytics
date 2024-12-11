@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Company Finance</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            color: #4CAF50;
+            margin-top: 20px;
+            font-size: 2.5em;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+        .company-name {
+            color: #2C3E50;
+            font-size: 1.5em;
+            margin-bottom: 10px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 20px;
+            padding: 15px;
+            border-bottom: 1px solid #ddd;
+            transition: background-color 0.3s;
+        }
+        li:hover {
+            background-color: #f9f9f9;
+        }
+        a {
+            color: #3498DB;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        label, select {
+            display: block;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+        form {
+            margin-bottom: 20px;
+        }
+        p {
+            margin: 5px 0;
+        }
+        .about-section {
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+        .form-group {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .form-group label, .form-group select {
+            flex: 1;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Company Finance</h1>
+        <form method="get" action="/">
+            <div class="form-group">
+                <label for="industry">Select Sector:</label>
+                <select name="industry" id="industry" onchange="this.form.submit()">
+                    {% for industry in industries %}
+                        <option value="{{ industry }}" {% if industry == selected_industry %}selected{% endif %}>{{ industry }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="sector">Select Industry:</label>
+                <select name="sector" id="sector" onchange="this.form.submit()">
+                    {% for sector in sectors %}
+                        <option value="{{ sector }}" {% if sector == selected_sector %}selected{% endif %}>{{ sector }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="sort_by">Sort by:</label>
+                <select name="sort_by" id="sort_by" onchange="this.form.submit()">
+                    <option value="Revenue ($B)" {% if sort_by == 'Revenue ($B)' %}selected{% endif %}>Revenue ($B)</option>
+                    <option value="Market Cap ($B)" {% if sort_by == 'Market Cap ($B)' %}selected{% endif %}>Market Cap ($B)</option>
+                    <option value="Net income ($B)" {% if sort_by == 'Net income ($B)' %}selected{% endif %}>Net income ($B)</option>
+                    <option value="Free cash flow ($B)" {% if sort_by == 'Free cash flow ($B)' %}selected{% endif %}>Free cash flow ($B)</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="sort_order">Sort order:</label>
+                <select name="sort_order" id="sort_order" onchange="this.form.submit()">
+                    <option value="asc" {% if sort_order == 'asc' %}selected{% endif %}>Ascending</option>
+                    <option value="desc" {% if sort_order == 'desc' %}selected{% endif %}>Descending</option>
+                </select>
+            </div>
+        </form>
+        <ul>
+            {% for item in items %}
+                <li>
+                    <h2 class="company-name">{{ loop.index }}. {{ item.Name or 'N/A' }}</h2>
+                    
+                    <div class="about-section">
+                        <p><strong>About:</strong> {{ item.About or 'N/A' }}</p>
+                    </div>
+                    
+                    <p><strong>Industry:</strong> {{ item.Industry or 'N/A' }}</p>
+                    <p><strong>CEO:</strong> {{ item.CEO or 'N/A' }}</p>
+                    <p><strong>Employees:</strong> {{ item.Employees or 'N/A' }}</p>
+                    <p><strong>Market Cap ($B):</strong> {{ item["Market Cap($B)"] or 'N/A' }}</p>
+                    <br>
+                    <p><strong>Previous Close:</strong> {{ item["Previous close"] or 'N/A' }}</p>
+                    <p><strong>Day Range:</strong> {{ item["Day range"] or 'Not Available' }}</p>
+                    <p><strong>Year Range:</strong> {{ item["Year range"] or 'Not Available' }}</p>
+                    <br>
+                    <p><strong>Revenue:</strong> {{ item.Income.Revenue or 'Not Available' }}</p>
+                    <p><strong>Revenue ($B):</strong> {{ item.Income["Revenue ($B)"] or 'Not Available' }}</p>
+                    <br>
+                    <p><strong>Net income:</strong> {{ item.Income["Net income"] or 'Not Available' }}</p>
+                    <p><strong>Net income ($B):</strong> {{ item.Income["Net income ($B)"] or 'Not Available' }}</p>
+                    <br>
+                    <p><strong>Free Cash Flow:</strong> {{ item["Cash Flow"]["Free cash flow"] or 'N/A' }}</p> 
+                    <p><strong>Free Cash Flow ($B):</strong> {{ item["Cash Flow"]["Free cash flow ($B)"] or 'N/A' }}</p>
+                    <br>
+                    <p><strong>Website:</strong> <a href="https://{{ item.Website or '#' }}">{{ item.Website or 'Not Available' }}</a></p>
+                    <p><strong>News Leads:</strong></p>
+                    <ul>
+                        {% if item["News Leads"] %}
+                            {% for title, url in item["News Leads"].items() %}
+                                <li><a href="{{ url }}">{{ title }}</a></li>
+                            {% endfor %}
+                        {% else %}
+                            <li>Not Available</li>
+                        {% endif %}
+                    </ul>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+</body>
+</html>
